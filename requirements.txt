@@ -1,5 +1,11 @@
-matplotlib
-seaborn
-datasets
-scikit-learn
-pandas
+Flask
+numpy
+torch
+transformers
+requests
+beautifulsoup4
+twilio
+python-dotenv
+SpeechRecognition
+pydub
+textblob
