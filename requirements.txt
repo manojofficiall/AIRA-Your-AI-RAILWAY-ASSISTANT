@@ -1,11 +1,5 @@
-Flask
-numpy
-torch
-transformers
-requests
-beautifulsoup4
-twilio
-python-dotenv
-SpeechRecognition
-pydub
-textblob
+matplotlib
+seaborn
+datasets
+scikit-learn
+pandas
